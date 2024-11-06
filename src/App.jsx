@@ -6,7 +6,7 @@ import { RecipeListPage } from "./pages/RecipeListPage";
 export const App = () => {
   const [userRecipe, setUserRecipe] = useState();
 
-  const greeting = "Winc Recipe Checker";
+  const greeting = "Jaimy's Recipe Checker";
 
   return (
     <Center minHeight="100vh" flexDir="column" bgColor="blue.400">
